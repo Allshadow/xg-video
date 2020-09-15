@@ -1,5 +1,15 @@
 # xg-video
 
+## 西瓜播放器
+
+### 基于西瓜播放器.mu38格式使用
+
+### 官网地址
+
+```
+http://h5player.bytedance.com/gettingStarted/
+```
+
 ## Project setup
 ```
 yarn install

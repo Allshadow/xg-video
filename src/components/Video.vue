@@ -3,6 +3,7 @@
 </template>
 
 <script>
+    //yarn add xgplayer-hls
     import HlsPlayer from 'xgplayer-hls';
 
     export default {
